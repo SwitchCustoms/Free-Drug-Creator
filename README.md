@@ -1,9 +1,6 @@
 ⚗️ SwitchDrugCreator
 Advanced in‑game drug zone creator for FiveM (ESX/QBCore/Standalone) using ox_inventory + ox_lib
 
-https://img.shields.io/badge/license-MIT-green.svg  
-https://img.shields.io/badge/framework-ESX%20%7C%20QBCore%20%7C%20Standalone-blue.svg  
-https://img.shields.io/badge/dependencies-ox__lib%20%7C%20ox__inventory-orange.svg
 
 SwitchDrugCreator is a lightweight, admin‑controlled drug zone system for FiveM servers.
 Create, edit, delete, and harvest drug zones entirely in‑game, with glow rings, animations, required items, and full database persistence.
